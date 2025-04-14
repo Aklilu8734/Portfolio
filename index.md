@@ -1,4 +1,4 @@
-# 📊 Aklilu's Data Portfolio
+# 📊 Data Portfolio_Aklilu Asgedom
 
 Welcome to my portfolio site! Explore my projects below:
 
@@ -11,6 +11,7 @@ Welcome to my portfolio site! Explore my projects below:
 
 ---
 
-## 📌 Project 2: [Your Next Project Title]
-- 🔗 GitHub link here
-- 🌐 GitHub Pages link here
+## 📌 Project 2: Education Analytics Project 
+Explore my interactive dashboard and analysis of student performance 
+👉 [View on GitHub]  🔗 https://github.com/Aklilu8734/education-analytics-portfolio 
+- 
