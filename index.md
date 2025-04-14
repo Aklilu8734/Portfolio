@@ -12,6 +12,8 @@ Welcome to my portfolio site! Explore my projects below:
 ---
 
 ## 📌 Project 2: Education Analytics Project 
+
 Explore my interactive dashboard and analysis of student performance 
+
 👉 [View on GitHub]  🔗 https://github.com/Aklilu8734/education-analytics-portfolio 
 - 
