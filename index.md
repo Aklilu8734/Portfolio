@@ -7,7 +7,8 @@ Welcome to my data portfolio! Explore selected projects that showcase my skills 
 ## 🍽️ Project 1: Paris Restaurant Analytics  
 📍 *Market & customer insights for restaurant planning in Paris.*
 
-![Restaurant Dashboard](https://github.com/Aklilu8734/paris-restaurant-analytics/blob/main/gastro/report-page2.png?raw=true) 
+![image](https://github.com/user-attachments/assets/6075386e-9e9c-4b42-8bff-21bd83b3f48a)
+
 
 🔗 [View Project on GitHub](https://github.com/Akilu8734/paris-restaurant-analytics)
 
