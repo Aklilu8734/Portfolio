@@ -7,7 +7,7 @@ Welcome to my data portfolio! Explore selected projects that showcase my skills 
 ## 🍽️ Project 1: Paris Restaurant Analytics  
 📍 *Market & customer insights for restaurant planning in Paris.*
 
-![Paris Restaurant](https://your-image-link/paris_restaurant_preview.png) <!-- Replace with actual image link -->
+![Restaurant Dashboard](https://github.com/Aklilu8734/paris-restaurant-analytics/blob/main/gastro/report-page2.png?raw=true) 
 
 🔗 [View Project on GitHub](https://github.com/Akilu8734/paris-restaurant-analytics)
 
@@ -21,7 +21,7 @@ Welcome to my data portfolio! Explore selected projects that showcase my skills 
 ## 🧠 Project 2: Education Analytics Project  
 🎓 *Exploratory & predictive analysis of student performance using SQL, Python, and Power BI.*
 
-![Education Dashboard](https://github.com/Akilu8734/education-analytics-portfolio/blob/main/visuals/overview.png?raw=true)
+![Education Dashboard Preview](https://github.com/Aklilu8734/education-analytics-portfolio/blob/main/visuals/overview.png?raw=true)
 
 🔗 [View on GitHub](https://github.com/Akilu8734/education-analytics-portfolio)
 
