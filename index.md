@@ -40,5 +40,5 @@ Welcome to my data portfolio! Explore selected projects that showcase my skills 
 
 ## 📫 Let’s Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-📧 akililu@example.com
+🔗 [LinkedIn](https://www.linkedin.com/in/aasgedom)  
+📧 akililu.hailemichael@gmail.com
