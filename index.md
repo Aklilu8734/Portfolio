@@ -20,7 +20,7 @@ Welcome to my data portfolio! Explore selected projects that showcase my skills 
 ## 🧠 Project 2: Education Analytics Project  
 🎓 *Exploratory & predictive analysis of student performance using SQL, Python, and Power BI.*
 
-🔗 [View on GitHub](https://github.com/Akilu8734/education-analytics-portfolio)
+🔗 [View on GitHub] https://github.com/Aklilu8734/education-analytics-portfolio 
 
 ![SQL](https://img.shields.io/badge/SQL-Data_Cleaning-blueviolet?logo=mysql)
 ![Python](https://img.shields.io/badge/Python-Modeling-blue?logo=python)
