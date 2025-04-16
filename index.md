@@ -8,7 +8,8 @@ Welcome to my data portfolio! Explore selected projects that showcase my skills 
 📍 *Market & customer insights for restaurant planning in Paris.*
 
 
-🔗 [View Project on GitHub] (https://github.com/Aklilu8734/gastro)
+🔗 [View on GitHub](https://github.com/Aklilu8734/gastro/blob/main/README.md)
+
 
 ![SQL](https://img.shields.io/badge/SQL-Data_Filtering-blueviolet?logo=mysql)
 ![Python](https://img.shields.io/badge/Python-Analysis-blue?logo=python)
